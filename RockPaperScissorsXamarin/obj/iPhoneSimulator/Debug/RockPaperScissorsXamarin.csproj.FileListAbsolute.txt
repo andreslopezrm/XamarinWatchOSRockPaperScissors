@@ -1,0 +1,12 @@
+/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin/bin/iPhoneSimulator/Debug/RockPaperScissorsXamarin.exe
+/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin/bin/iPhoneSimulator/Debug/RockPaperScissorsXamarin.pdb
+/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin/obj/iPhoneSimulator/Debug/RockPaperScissorsXamarin.csprojAssemblyReference.cache
+/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin/obj/iPhoneSimulator/Debug/RockPaperScissorsXamarin.csproj.CoreCompileInputs.cache
+/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin/obj/iPhoneSimulator/Debug/RockPaperScissorsXamarin.exe
+/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin/obj/iPhoneSimulator/Debug/RockPaperScissorsXamarin.pdb
+/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/actool/_PartialAppManifest.items
+/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/actool/_BundleResourceWithLogicalName.items
+/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/coremlc/_PartialAppManifest.items
+/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/optimized/

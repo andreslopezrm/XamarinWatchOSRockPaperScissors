@@ -1,0 +1,6 @@
+/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/bin/iPhoneSimulator/Debug/RockPaperScissorsXamarinRockPaperScissorsWatchExtension.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.13/lib/mono/Xamarin.WatchOS/mscorlib.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.13/lib/mono/Xamarin.WatchOS/../../32bits/Xamarin.WatchOS.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.13/lib/mono/Xamarin.WatchOS/System.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.13/lib/mono/Xamarin.WatchOS/System.Xml.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.13/lib/mono/Xamarin.WatchOS/System.Core.dll
