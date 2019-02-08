@@ -1,5 +1,5 @@
---cache=/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache
---sim=/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin/bin/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/RockPaperScissorsXamarin.app
+--cache=/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache
+--sim=/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin/bin/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/RockPaperScissorsXamarin.app
 --executable=RockPaperScissorsXamarin
 --debug
 --nolink
@@ -9,7 +9,7 @@
 --aot-options=-O=-float32
 --http-message-handler=NSUrlSessionHandler
 --abi=x86_64
---symbollist=/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-symbols.list
+--symbollist=/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-symbols.list
 --dsym=no
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll
@@ -17,5 +17,5 @@
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll
 --target-framework=Xamarin.iOS,v1.0
---root-assembly=/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin/bin/iPhoneSimulator/Debug/RockPaperScissorsXamarin.exe
+--root-assembly=/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin/bin/iPhoneSimulator/Debug/RockPaperScissorsXamarin.exe
 

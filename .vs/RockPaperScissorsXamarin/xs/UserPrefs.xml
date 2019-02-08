@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{F9F64074-0D6B-4FEF-8F8D-5A1CE6126974}|Default">
+  <MonoDevelop.Ide.ItemProperties.RockPaperScissorsXamarin.RockPaperScissorsWatch PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.130D2BBF-BE1B-413A-804E-1E4E3BCAF9FF" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/InterfaceController.cs">
+    <Files>
+      <File FileName="RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/InterfaceController.cs" Line="17" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RockPaperScissorsXamarin PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8A3A558F-1797-4A1A-87C8-F53DC61E27D5" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

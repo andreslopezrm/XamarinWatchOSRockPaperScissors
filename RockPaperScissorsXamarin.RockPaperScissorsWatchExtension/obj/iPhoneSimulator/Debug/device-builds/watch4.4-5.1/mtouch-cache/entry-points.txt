@@ -1,279 +1,279 @@
 Function=xamarin_timezone_get_names
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/mscorlib.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/mscorlib.dll
 Function=xamarin_timezone_get_data
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/mscorlib.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/mscorlib.dll
 Function=xamarin_GetFolderPath
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/mscorlib.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/mscorlib.dll
 Function=xamarin_log
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/mscorlib.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/mscorlib.dll
 Function=xamarin_get_locale_country_code
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/mscorlib.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/mscorlib.dll
 Function=xamarin_find_protocol_wrapper_type
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_release_block_on_main_thread
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_get_block_descriptor
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_IntPtr_objc_msgSend_IntPtr
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_UInt32
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_UInt32
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_UInt64
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_UInt64
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_IntPtr_objc_msgSend_IntPtr_nint_nint_nint_UInt32
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_nint_nint_nint_UInt32
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_IntPtr_objc_msgSend_IntPtr_nint_nint_nint_UInt64
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_nint_nint_nint_UInt64
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_IntPtr_objc_msgSend_IntPtr_UInt32_nint_UInt32
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_UInt32_nint_UInt32
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_IntPtr_objc_msgSend_IntPtr_UInt64_nint_UInt64
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_UInt64_nint_UInt64
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Vector3_objc_msgSend_Vector3
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector3
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector3
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector3
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Vector2_objc_msgSend
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Vector2_objc_msgSendSuper
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__void_objc_msgSend_Vector2
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__void_objc_msgSendSuper_Vector2
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Vector3_objc_msgSend
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Vector3_objc_msgSendSuper
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Vector3_objc_msgSend_stret
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Vector3_objc_msgSendSuper_stret
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__void_objc_msgSend_Vector3
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__void_objc_msgSendSuper_Vector3
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Vector4_objc_msgSend
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Vector4_objc_msgSendSuper
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Vector4_objc_msgSend_stret
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Vector4_objc_msgSendSuper_stret
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__void_objc_msgSend_Vector4
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__void_objc_msgSendSuper_Vector4
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__IntPtr_objc_msgSend_Vector2
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__IntPtr_objc_msgSend_Vector3
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__IntPtr_objc_msgSend_Vector4
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector4
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_vector_float3__Vector4_objc_msgSend
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_vector_float3__Vector4_objc_msgSendSuper
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_vector_float3__Vector4_objc_msgSend_stret
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_vector_float3__Vector4_objc_msgSendSuper_stret
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_vector_float3__void_objc_msgSend_Vector4
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_vector_float3__void_objc_msgSendSuper_Vector4
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__NVector3_objc_msgSend
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__NVector3_objc_msgSendSuper
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__NVector3_objc_msgSend_stret
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__NVector3_objc_msgSendSuper_stret
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__void_objc_msgSend_NVector3
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__void_objc_msgSendSuper_NVector3
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__NMatrix3_objc_msgSend
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__NMatrix3_objc_msgSendSuper
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__NMatrix3_objc_msgSend_stret
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__NMatrix3_objc_msgSendSuper_stret
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__void_objc_msgSend_NMatrix3
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__void_objc_msgSendSuper_NMatrix3
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Quaternion_objc_msgSend
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Quaternion_objc_msgSendSuper
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Quaternion_objc_msgSend_stret
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Quaternion_objc_msgSendSuper_stret
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__void_objc_msgSend_Quaternion
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__void_objc_msgSendSuper_Quaternion
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Matrix2_objc_msgSend
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Matrix2_objc_msgSendSuper
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Matrix2_objc_msgSend_stret
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Matrix2_objc_msgSendSuper_stret
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__void_objc_msgSend_Matrix2
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__void_objc_msgSendSuper_Matrix2
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__NMatrix2_objc_msgSend
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__NMatrix2_objc_msgSendSuper
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__NMatrix2_objc_msgSend_stret
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__NMatrix2_objc_msgSendSuper_stret
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__void_objc_msgSend_NMatrix2
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__void_objc_msgSendSuper_NMatrix2
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Matrix3_objc_msgSend
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Matrix3_objc_msgSendSuper
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Matrix3_objc_msgSend_stret
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Matrix3_objc_msgSendSuper_stret
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__void_objc_msgSend_Matrix3
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__void_objc_msgSendSuper_Matrix3
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Matrix4_objc_msgSend
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Matrix4_objc_msgSendSuper
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Matrix4_objc_msgSend_stret
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__void_objc_msgSend_Matrix4
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__void_objc_msgSendSuper_Matrix4
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__NMatrix4_objc_msgSend
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__NMatrix4_objc_msgSendSuper
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__NMatrix4_objc_msgSend_stret
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__void_objc_msgSend_NMatrix4
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector3
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector3
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector4
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector4
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix2
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix2
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix2
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix2
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix3
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix3
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix3
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix3
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix4
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix4
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix4
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix4
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Vector2_objc_msgSend_nint
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_simd__Vector2_objc_msgSendSuper_nint
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_localized_string_format
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_localized_string_format_1
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_localized_string_format_2
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_localized_string_format_3
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_localized_string_format_4
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_localized_string_format_5
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_localized_string_format_6
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_localized_string_format_7
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_localized_string_format_8
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_localized_string_format_9
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=xamarin_init_nsthread
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/Xamarin.WatchOS.dll
 Function=CreateZStream
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/System.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/System.dll
 Function=CloseZStream
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/System.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/System.dll
 Function=Flush
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/System.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/System.dll
 Function=ReadZStream
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/System.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/System.dll
 Function=WriteZStream
-	/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/System.dll
+	/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache/1-Link/System.dll
 Function=mono_pmip
 Function=xamarin_dyn_objc_msgSend
 Function=xamarin_dyn_objc_msgSendSuper

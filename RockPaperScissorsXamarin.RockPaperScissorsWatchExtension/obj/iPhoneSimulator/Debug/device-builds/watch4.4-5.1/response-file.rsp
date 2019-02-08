@@ -1,5 +1,5 @@
---cache=/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache
---sim=/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/bin/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/RockPaperScissorsXamarinRockPaperScissorsWatchExtension.appex
+--cache=/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-cache
+--sim=/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/bin/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/RockPaperScissorsXamarinRockPaperScissorsWatchExtension.appex
 --executable=RockPaperScissorsXamarinRockPaperScissorsWatchExtension
 --extension
 --debug
@@ -10,7 +10,7 @@
 --aot-options=-O=-float32
 --http-message-handler=NSUrlSessionHandler
 --abi=i386
---symbollist=/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-symbols.list
+--symbollist=/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/obj/iPhoneSimulator/Debug/device-builds/watch4.4-5.1/mtouch-symbols.list
 --dsym=no
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.WatchOS/mscorlib.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.WatchOS/System.Core.dll
@@ -18,5 +18,5 @@
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.WatchOS/System.Xml.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.WatchOS/Xamarin.WatchOS.dll
 --target-framework=Xamarin.WatchOS,v1.0
---root-assembly=/Users/andreslopez/Documents/XCode/RockPaperScissorsXamarin/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/bin/iPhoneSimulator/Debug/RockPaperScissorsXamarinRockPaperScissorsWatchExtension.dll
+--root-assembly=/Users/andreslopez/Desktop/wXamarin/otro/XamarinWatchOSRockPaperScissors/RockPaperScissorsXamarin.RockPaperScissorsWatchExtension/bin/iPhoneSimulator/Debug/RockPaperScissorsXamarinRockPaperScissorsWatchExtension.dll
 

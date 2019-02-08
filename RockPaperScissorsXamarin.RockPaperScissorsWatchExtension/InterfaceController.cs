@@ -6,10 +6,16 @@ using Foundation;
 
 namespace RockPaperScissorsXamarin.RockPaperScissorsWatchExtension
 {
+
     public partial class InterfaceController : WKInterfaceController
     {
-        private string[] Options = { "rock", "paper", "scissors" };
+
         private int Counter = 0;
+
+        private enum Results { TIE, WIN, LOSE };
+        private enum Moves { Rock, Paper, Scissors }
+
+        private Moves[] Options = { Moves.Rock, Moves.Paper, Moves.Scissors };
 
         protected InterfaceController(IntPtr handle) : base(handle)
         {
@@ -39,20 +45,20 @@ namespace RockPaperScissorsXamarin.RockPaperScissorsWatchExtension
 
         partial void RockButton_Activated()
         {
-            Check("rock");
+            Check(Moves.Rock);
         }
 
         partial void PaperButton_Activated()
         {
-            Check("paper");
+            Check(Moves.Paper);
         }
 
         partial void ScissorsButton_Activated()
         {
-            Check("scissors");
+            Check(Moves.Scissors);
         }
 
-        private void Check(string selection) 
+        private void Check(Moves selection) 
         {
             var random = new Random();
 
@@ -62,34 +68,34 @@ namespace RockPaperScissorsXamarin.RockPaperScissorsWatchExtension
 
             if (selection == machineChoose)
             {
-                ResultLabel.SetText("TIE");
+                ResultLabel.SetText(Results.TIE.ToString());
             }
-            else if (selection == "rock" && machineChoose == "scissors")
+            else if (selection == Moves.Rock && machineChoose == Moves.Scissors)
             {
-                ResultLabel.SetText("WIN");
+                ResultLabel.SetText(Results.WIN.ToString());
                 Counter += 1;
             }
-            else if (selection == "rock" && machineChoose == "paper")
+            else if (selection == Moves.Rock && machineChoose == Moves.Paper)
             {
-                ResultLabel.SetText("LOSE");
+                ResultLabel.SetText(Results.LOSE.ToString());
             }
-            else if (selection == "paper" && machineChoose == "rock")
+            else if (selection == Moves.Paper && machineChoose == Moves.Rock)
             {
-                ResultLabel.SetText("WIN");
+                ResultLabel.SetText(Results.WIN.ToString());
                 Counter += 1;
             }
-            else if (selection == "paper" && machineChoose == "scissors")
+            else if (selection == Moves.Paper && machineChoose == Moves.Scissors)
             {
-                ResultLabel.SetText("LOSE");
+                ResultLabel.SetText(Results.LOSE.ToString());
           }
-            else if (selection == "scissors" && machineChoose == "paper")
+            else if (selection == Moves.Scissors && machineChoose == Moves.Paper)
             {
-                ResultLabel.SetText("WIN");
+                ResultLabel.SetText(Results.WIN.ToString());
                 Counter += 1;
           }
-            else if (selection == "scissors" && machineChoose == "rock")
+            else if (selection == Moves.Scissors && machineChoose == Moves.Rock)
             {
-                ResultLabel.SetText("LOSE");
+                ResultLabel.SetText(Results.LOSE.ToString());
           }
 
             WinnerLabel.SetText($"Wins: {Counter}");
